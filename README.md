@@ -1,7 +1,7 @@
 # Swara Dave | Financial Engineer & Quantitative Researcher
-**HFT · Liquidity Modeling · Regime-Aware Strategies · Machine Learning**
+**Quantitative Finance · Risk · Data Analytics · Machine Learning**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-swara--dave-blue?style=flat&logo=linkedin)](https://linkedin.com/in/swara-dave) [![Email](https://img.shields.io/badge/Email-swaradave5%40gmail.com-red?style=flat&logo=gmail)](mailto:swaradave5@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-swaraaaa-black?style=flat&logo=github)](https://github.com/swaraaaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swara%20Dave-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swara-dave) [![GitHub](https://img.shields.io/badge/GitHub-swaraaaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swaraaaa) [![Gmail](https://img.shields.io/badge/Gmail-swaradave5-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaradave5@gmail.com) [![Resume](https://img.shields.io/badge/Resume-View-F97316?style=for-the-badge&logo=googledrive&logoColor=white)](https://linkedin.com/in/swara-dave)
 
 ---
 
