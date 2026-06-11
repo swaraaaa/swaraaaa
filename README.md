@@ -73,4 +73,4 @@ Coursework: Algorithmic Trading, Market Microstructure, Computational Methods in
 ---
 
 ## 🎯 Interests
-Trading · Market Microstructure · Statistical Arbitrage · Machine Learning · Reading · Badminton
+Bharatnatyam · Skating · Athletics · Dance · Reading · Sketching · Painting · Art · Music
