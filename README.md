@@ -50,6 +50,11 @@ Coursework: Algorithmic Trading, Market Microstructure, Computational Methods in
 - Built a 3-state HMM on 20 years of SPY, VIX, and yield-curve data (2005–2025) to classify Calm, Neutral, and Turbulent market regimes
 - Regime-conditioned allocation achieved **8.6% annual return, 12.1% volatility, -34.6% max drawdown** vs SPY's -55.2% drawdown
 
+**American Options Pricing & Delta Hedging on SPY** — Python, LSMC, Binomial Tree, Crank-Nicholson | 2024
+- Implemented and compared 3 numerical methods for pricing American options on SPY using real Bloomberg data
+- Computed Greeks (Delta, Gamma, Vega, Theta) across all methods; validated against market prices
+- Implemented dynamic delta hedging strategy maintaining delta-neutral position across 5 trading days
+
 ---
 
 ## 🛠️ Skills
