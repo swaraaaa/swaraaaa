@@ -23,19 +23,21 @@ Coursework: Algorithmic Trading, Market Microstructure, Computational Methods in
 
 ## 🏢 Experience
 
-**Stevens Institute of Technology** | Research Assistant — Market Liquidity & HFT (Prof. Dragos Bozdog)
+**Stevens Institute of Technology** | Research Assistant — Market Liquidity & High-Frequency Trading (Prof. Dragos Bozdog)
 *May 2025 – Aug 2025 | Hoboken, NJ*
-- Engineered cross-asset risk pipelines processing 20M+ NASDAQ TAQ records; developed a 6-metric Liquidity Stress Score (LSS) framework to identify top 1% rare intraday stress events for alpha generation
-- Designed a precision mean-reversion strategy triggered on top 1% LSS events, achieving a **Sharpe Ratio of 5.43** on a $50,000 capital base with 100% win rate across 5 high-confidence signals
-- Built minute-ahead predictive models (Random Forest, XGBoost, Elastic Net) for execution risk quantification; Random Forest achieved RMSE of 0.323 and R² of 0.197 on out-of-sample data
+- Engineered cross-asset risk pipelines processing 20M+ NASDAQ TAQ records; developed a 6-metric Liquidity Stress Score (LSS) framework that directly identified top 1% rare intraday stress events for alpha generation
+- Achieved RMSE of 0.323 and R² of 0.197 on out-of-sample data by building minute-ahead execution risk models using Random Forest, XGBoost, and Elastic Net on NASDAQ TAQ data
+- Designed a mean-reversion trading strategy triggered on top 1% LSS events, achieving a **Sharpe Ratio of 5.43** on a $50,000 capital base with 100% win rate across 5 high-confidence signals
 
 **Lintel Technologies Pvt. Ltd.** | Python Developer Intern
 *April 2023 – Oct 2023 | Gujarat, India*
-- Built Python-based call-center analytics platform integrating telephony APIs to automate KPI tracking across reporting workflows
+- Developed Python analytics solutions for a fintech platform, integrating telephony APIs to automate KPI reporting
+- Automated data processing workflows using Python and SQL, reducing manual reporting effort and improving accuracy
 
 **Credencys Solutions Inc.** | Software Engineer Intern
 *Jun 2022 – Jul 2022 | Gujarat, India*
-- Developed and tested Python and REST API features for enterprise client platforms at a Data & AI consulting firm
+- Automated reporting workflows for an FP&A client using SQL/Python, improving data processing efficiency
+- Built reporting dashboards to monitor business metrics; improved code quality via testing and reviews
 
 ---
 
@@ -76,11 +78,11 @@ Coursework: Algorithmic Trading, Market Microstructure, Computational Methods in
 
 **Programming:** Python (pandas, NumPy, scikit-learn, statsmodels) · C++ · SQL · R
 
-**Finance & Math:** Fixed income pricing · Derivatives valuation · Black-Scholes · Monte Carlo · VaR · CVaR · HMM · ARIMA · GARCH · PCA · OLS · Cointegration · Machine Learning
+**Finance & Math:** Fixed income pricing · Derivatives valuation · Black-Scholes · Monte Carlo · VaR · CVaR · Risk decomposition · HMM · ARIMA · GARCH · PCA · OLS · Cointegration · Machine Learning
 
 **Tools:** Bloomberg Terminal/API · Git · Excel
 
-**Certifications:** Baruch C++ for Financial Engineering · Beta Gamma Sigma (Top 20% AACSB)
+**Certifications:** Baruch C++ for Financial Engineering
 
 ---
 
