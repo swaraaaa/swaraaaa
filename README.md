@@ -64,6 +64,11 @@ Coursework: Algorithmic Trading, Market Microstructure, Computational Methods in
 - Constructed two long-short strategies over 12 global ETFs using Fama-French 3-factor model with weekly rebalancing from 2007–2025
 - Strategy II achieved 828.80% cumulative return vs SPY's 535.62% with Sharpe ratio of 0.66 vs 0.54; lower CVaR (2.94% vs 3.08%)
 - Analyzed sensitivity to estimation horizons and risk-aversion parameter across 5 market regimes including GFC and COVID-19
+
+**Sensitivity of Airline Stock Returns to Oil Price Changes** — R, Correlation & Regression Analysis, Bloomberg | 2024
+- Tested whether Delta and United Airlines stock returns move inversely with crude oil returns using 5 years of weekly Bloomberg data (2019–2024)
+- Found weak positive correlations instead (Delta: 0.161, p=0.009; United: 0.088, p=0.157), rejecting the inverse-relationship hypothesis
+- Cross-validated R regression outputs against Bloomberg's native regression tool, confirming consistency with industry-standard calculations
   
 ---
 
