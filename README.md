@@ -55,6 +55,11 @@ Coursework: Algorithmic Trading, Market Microstructure, Computational Methods in
 - Computed Greeks (Delta, Gamma, Vega, Theta) across all methods; validated against market prices
 - Implemented dynamic delta hedging strategy maintaining delta-neutral position across 5 trading days
 
+**BTC Market Microstructure — Volatility, Liquidity & Market Resilience** — R, High-Frequency Data | 2024
+- Analyzed tick-level BTC/USD data (14,618 observations) from BitMex; estimated realized volatility at 30.76% and Roll Model volatility at 28.97%
+- Computed quoted, effective, and Roll spreads to quantify liquidity; found effective spread (0.406 USD) significantly below quoted spread (0.569 USD) indicating hidden liquidity
+- Analyzed immediate and cumulative price impact of large trades (>40,000 units) on market resilience
+
 ---
 
 ## 🛠️ Skills
