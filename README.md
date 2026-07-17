@@ -60,6 +60,11 @@ Coursework: Algorithmic Trading, Market Microstructure, Computational Methods in
 - Computed quoted, effective, and Roll spreads to quantify liquidity; found effective spread (0.406 USD) significantly below quoted spread (0.569 USD) indicating hidden liquidity
 - Analyzed immediate and cumulative price impact of large trades (>40,000 units) on market resilience
 
+**Factor-Based Long-Short Portfolio Allocation under Beta Constraints** — Python, Fama-French, CVXPY | 2025
+- Constructed two long-short strategies over 12 global ETFs using Fama-French 3-factor model with weekly rebalancing from 2007–2025
+- Strategy II achieved 828.80% cumulative return vs SPY's 535.62% with Sharpe ratio of 0.66 vs 0.54; lower CVaR (2.94% vs 3.08%)
+- Analyzed sensitivity to estimation horizons and risk-aversion parameter across 5 market regimes including GFC and COVID-19
+  
 ---
 
 ## 🛠️ Skills
