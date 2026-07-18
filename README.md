@@ -52,20 +52,20 @@ Coursework: Algorithmic Trading, Market Microstructure, Computational Methods in
 - Built a 3-state HMM on 20 years of SPY, VIX, and yield-curve data (2005–2025) to classify Calm, Neutral, and Turbulent market regimes
 - Regime-conditioned allocation achieved **8.6% annual return, 12.1% volatility, -34.6% max drawdown** vs SPY's -55.2% drawdown
 
-**American Options Pricing & Delta Hedging on SPY** — Python, LSMC, Binomial Tree, Crank-Nicholson | 2024
-- Implemented and compared 3 numerical methods for pricing American options on SPY using real Bloomberg data
-- Computed Greeks (Delta, Gamma, Vega, Theta) across all methods; validated against market prices
-- Implemented dynamic delta hedging strategy maintaining delta-neutral position across 5 trading days
-
-**BTC Market Microstructure — Volatility, Liquidity & Market Resilience** — R, High-Frequency Data | 2024
-- Analyzed tick-level BTC/USD data (14,618 observations) from BitMex; estimated realized volatility at 30.76% and Roll Model volatility at 28.97%
-- Computed quoted, effective, and Roll spreads to quantify liquidity; found effective spread (0.406 USD) significantly below quoted spread (0.569 USD) indicating hidden liquidity
-- Analyzed immediate and cumulative price impact of large trades (>40,000 units) on market resilience
-
 **Factor-Based Long-Short Portfolio Allocation under Beta Constraints** — Python, Fama-French, CVXPY | 2025
 - Constructed two long-short strategies over 12 global ETFs using Fama-French 3-factor model with weekly rebalancing from 2007–2025
 - Strategy II achieved 828.80% cumulative return vs SPY's 535.62% with Sharpe ratio of 0.66 vs 0.54; lower CVaR (2.94% vs 3.08%)
 - Analyzed sensitivity to estimation horizons and risk-aversion parameter across 5 market regimes including GFC and COVID-19
+
+**American Options Pricing & Delta Hedging on SPY** — Python, LSMC, Binomial Tree, Crank-Nicholson | 2025
+- Implemented and compared 3 numerical methods for pricing American options on SPY using real Bloomberg data
+- Computed Greeks (Delta, Gamma, Vega, Theta) across all methods; validated against market prices
+- Implemented dynamic delta hedging strategy maintaining delta-neutral position across 5 trading days
+
+**BTC Market Microstructure — Volatility, Liquidity & Market Resilience** — R, High-Frequency Data | 2025
+- Analyzed tick-level BTC/USD data (14,618 observations) from BitMex; estimated realized volatility at 30.76% and Roll Model volatility at 28.97%
+- Computed quoted, effective, and Roll spreads to quantify liquidity; found effective spread (0.406 USD) significantly below quoted spread (0.569 USD) indicating hidden liquidity
+- Analyzed immediate and cumulative price impact of large trades (>40,000 units) on market resilience
 
 **Sensitivity of Airline Stock Returns to Oil Price Changes** — R, Correlation & Regression Analysis, Bloomberg | 2024
 - Tested whether Delta and United Airlines stock returns move inversely with crude oil returns using 5 years of weekly Bloomberg data (2019–2024)
