@@ -1,7 +1,7 @@
 # Swara Dave | Financial Engineer & Quantitative Researcher
 **Quantitative Finance · Risk · Data Analytics · Machine Learning**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swara%20Dave-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swara-dave) [![GitHub](https://img.shields.io/badge/GitHub-swaraaaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swaraaaa) [![Gmail](https://img.shields.io/badge/Gmail-swaradave5-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaradave5@gmail.com) [![Resume](https://img.shields.io/badge/Resume-View-F97316?style=for-the-badge&logo=googledrive&logoColor=white)]([https://drive.google.com/file/d/1suj3rZj0jHNPZ364iYrtPGGkGfsZ2qHi/view?usp=sharing](https://drive.google.com/file/d/1_fA4Z9W9Ph0xEAiYCXD7bAKLG0fVKaZp/view?usp=sharing))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swara%20Dave-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swara-dave) [![GitHub](https://img.shields.io/badge/GitHub-swaraaaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swaraaaa) [![Gmail](https://img.shields.io/badge/Gmail-swaradave5-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaradave5@gmail.com) [![Resume](https://img.shields.io/badge/Resume-View-F97316?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1_fA4Z9W9Ph0xEAiYCXD7bAKLG0fVKaZp/view?usp=drive_link)
 
 ---
 
